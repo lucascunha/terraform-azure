@@ -29,3 +29,9 @@ Alternativamente, você pode armazenar os dados de login nas variáveis do siste
 
 - export TF_VAR_user=
 - export TF_VAR_password=
+
+## Não esquecer
+
+Ao terminar de utilizar, não esqueça de apagar os recursos criados para evitar cobranças desnecessárias:
+
+* Comando - `terraform destroy`
